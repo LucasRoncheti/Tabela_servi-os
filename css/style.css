@@ -6,6 +6,80 @@
 }
 
 
+body{
+   position: relative;
+   background-color: rgba(209, 233, 239, 0.7);
+}
+
+/* container que envolve tudo */
+.main_section{
+
+    width: 80%;
+    height: auto;
+    position: absolute;
+    left: 10%;
+    margin-top: 2%;
+    text-align:center;
+}
+
+h1{
+    font-size: 5em;
+    color: rgb(65, 94, 143);
+   text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.235);
+}
+
+
+/* aqui começa a lista de serviços */
+.serviceList{
+    width: 100%;
+    margin-top: 1%;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.102);
+   
+
+
+}
+
+/* aqui começa os estilos das tabelas  */
+
+.tableHeader,.descTable{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 3px;
+    
+    
+
+}
+.tableHeader{
+    font-size: 1.5em;
+    font-weight: 600;
+    background-color: rgb(88, 104, 104);
+    color: white;
+
+}
+
+.descTable{
+    font-size: 1.2em;
+ 
+}
+
+.divItensTable
+{
+    width: 25%;
+}
+
+tr{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size:2em;
+}
+
+
+/* contaier das imagens  */
 .containerImages{
     width: 80%;
     display: flex;

@@ -6,23 +6,23 @@ var generateList=()=>{
     return (table.innerHTML = data_list.map((x)=>{
         return`
         <section class="serviceList">
-            <table >
-                <tr>
-                    <th>Item</th>
-                    <th>Cliente</th>
-                    <th>Serviço</th>
-                    <th>Previsão de Entrega</th>
-                </tr>
+            <div class="mainTable">
+                <div class="tableHeader">
+                    <div class="divItensTable">Item</div>
+                    <div class="divItensTable">Cliente</div>
+                    <div class="divItensTable">Serviço</div>
+                    <div class="divItensTable">Previsão de Entrega</div>
+                </div>
 
                 
-                <tr>
-                    <td>${x.id}</td>
-                    <td>${x.cliente}</td>
-                    <td>${x.serviço}</td>
-                    <td>${x.data_entrega}</td>
-                </tr>
+                <div class="descTable">
+                    <div class="divItensTable">${x.id}</div>
+                    <div class="divItensTable">${x.cliente}</div>
+                    <div class="divItensTable">${x.serviço}</div>
+                    <div class="divItensTable">${x.data_entrega}</div>
+                </div>
 
-            </table>
+            </div>
                 
                 
             
@@ -41,7 +41,7 @@ var generateList=()=>{
                     </details>
                 </details>
 
-                <hr>
+                
             </section>
                     
         
