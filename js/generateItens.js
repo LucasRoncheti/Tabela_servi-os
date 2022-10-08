@@ -25,24 +25,25 @@ var generateList=()=>{
             </div>
                 
                 
-            
-                <details>
-                ${x.desc}
-
+                <div class="mainDetails">
                     <details>
-                        <summary>Imagens</summary>
+                    <p>${x.desc}</p>
 
-                            <div class="containerImages">
-                            
-                                <img src="${x.img01}" alt="">
-                                <img src="${x.img02}" alt="">
-                                <img src="${x.img03}" alt="">
-                            </div>
+                        <details>
+                            <summary>Imagens</summary>
+
+                                <div class="containerImages">
+                                
+                                    <img src="${x.img01}" alt="">
+                                    <img src="${x.img02}" alt="">
+                                    <img src="${x.img03}" alt="">
+                                </div>
+                        </details>
                     </details>
-                </details>
-
+                </div>
                 
             </section>
+            <br><br>
                     
         
         `

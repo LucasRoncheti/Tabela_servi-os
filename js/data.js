@@ -17,9 +17,49 @@ let data_list=[
     cliente:"Cliente 02",
     serviço:"telhado policarboneto ",
     data_entrega:"23/02/22",
-    desc:"faxada de loja em acm cor preto ",
+    desc:"-Telhado em policarbonato 4mm com estrutura em perfil galvaniza. <br> -Telhado em policarbonato 4mm com estrutura em perfil galvanizao Telhado em policarbonato 4mm com estrutura em perfil galvanizao <br> Telhado em policarbonato 4mm com estrutura em perfil galvanizao ",
     img01:"./images/02.jpg"
     
+
+    },
+
+    {
+    id:"03",
+    cliente:"Cliente 03",
+    serviço:"fachada loja ",
+    data_entrega:"25/02/22",
+    desc:"faxada de loja em acm cor preto ",
+    img01:"./images/03.jpg"
+
+    },
+
+    {
+    id:"03",
+    cliente:"Cliente 03",
+    serviço:"fachada loja ",
+    data_entrega:"25/02/22",
+    desc:"faxada de loja em acm cor preto ",
+    img01:"./images/03.jpg"
+
+    },
+
+    {
+    id:"03",
+    cliente:"Cliente 03",
+    serviço:"fachada loja ",
+    data_entrega:"25/02/22",
+    desc:"faxada de loja em acm cor preto ",
+    img01:"./images/03.jpg"
+
+    },
+
+    {
+    id:"03",
+    cliente:"Cliente 03",
+    serviço:"fachada loja ",
+    data_entrega:"25/02/22",
+    desc:"faxada de loja em acm cor preto ",
+    img01:"./images/03.jpg"
 
     },
 

@@ -11,6 +11,13 @@ body{
    background-color: rgba(209, 233, 239, 0.7);
 }
 
+
+.dat_list{
+
+    margin-top: 2%;
+}
+
+
 /* container que envolve tudo */
 .main_section{
 
@@ -23,16 +30,16 @@ body{
 }
 
 h1{
-    font-size: 5em;
-    color: rgb(65, 94, 143);
-   text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.235);
+    font-size: 4em;
+    color: rgb(47, 76, 101);
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.197);
 }
 
 
 /* aqui começa a lista de serviços */
 .serviceList{
     width: 100%;
-    margin-top: 1%;
+   
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
@@ -71,17 +78,43 @@ h1{
     width: 25%;
 }
 
-tr{
+/* detalhes estão aqui  */
+.mainDetails{
     width: 100%;
-    display: flex;
-    justify-content: space-between;
-    font-size:2em;
+   
+    text-align: left;
+}
+details{
+    width: 100%;
+    color: rgb(233, 26, 95);
+    
+   margin: 0.5%;
+}
+
+
+
+
+
+details>p{
+ color:black;
+ margin-left: 15px;
+ font-weight: 400;
+ margin: 5px;
+ text-align: initial;
 }
 
 
 /* contaier das imagens  */
 .containerImages{
-    width: 80%;
+    width: 98%;
     display: flex;
     flex-direction: column;
+   
+  
+}
+
+
+footer{
+    position: absolute;
+    bottom: 0px;
 }
