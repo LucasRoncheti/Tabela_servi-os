@@ -1,0 +1,29 @@
+@media only screen and (max-width:760px){
+
+h1{
+    font-size: 1.8em;
+}
+
+
+
+.main_section{
+    width: 95%;
+    left: 2.5%;
+}
+
+
+
+.tableHeader{
+    font-size: 1.2em;
+    font-weight: 400;
+    background-color: rgb(88, 104, 104);
+    color: white;
+
+}
+
+.descTable{
+    font-size: 1.0em;
+    background-color: aliceblue;
+ 
+}
+}

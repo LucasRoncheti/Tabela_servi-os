@@ -59,7 +59,7 @@ let data_list=[
     serviço:"fachada loja ",
     data_entrega:"25/02/22",
     desc:"faxada de loja em acm cor preto ",
-    img01:"./images/03.jpg"
+    img01:""
 
     },
 
@@ -69,7 +69,7 @@ let data_list=[
     serviço:"fachada loja ",
     data_entrega:"25/02/22",
     desc:"faxada de loja em acm cor preto ",
-    img01:"./images/03.jpg"
+    img01:""
 
     },
 ]
