@@ -11,7 +11,7 @@ var generateList=()=>{
                     <div class="divItensTable">Item</div>
                     <div class="divItensTable">Cliente</div>
                     <div class="divItensTable">Serviço</div>
-                    <div class="divItensTable">Previsão de Entrega</div>
+                    <div class="divItensTable">Prev. Entrega</div>
                 </div>
 
                 
