@@ -27,10 +27,11 @@ var generateList=()=>{
                 
                 <div class="mainDetails">
                     <details>
-                    <p>${x.desc}</p>
+                        <summary>Saiba Mais <i class="bi bi-search"></i></summary>
+                        <p>${x.desc}</p>
 
                         <details>
-                            <summary>Imagens</summary>
+                            <summary>Imagens <i class="bi bi-images"></i></summary>
 
                                 <div class="containerImages">
                                 
