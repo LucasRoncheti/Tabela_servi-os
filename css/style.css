@@ -8,7 +8,7 @@
 
 body{
    position: relative;
-   background-color: rgba(209, 233, 239, 0.7);
+   background-color: rgba(254, 254, 254, 0.7);
 }
 
 
@@ -20,7 +20,7 @@ body{
 
 /* container que envolve tudo */
 .main_section{
-
+    display:none;
     width: 80%;
     height: auto;
     position: absolute;
@@ -28,6 +28,24 @@ body{
     margin-top: 2%;
     text-align:center;
 }
+
+
+/* imagem do loading inicial*/
+.load{
+    font-size: 1em;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    align-items: center;
+    transform: translate(-50%,250%);
+}
+
+.loadImage{
+    width: 100%;
+    mix-blend-mode: difference;
+}
+
+
 
 h1{
     font-size: 4em;
