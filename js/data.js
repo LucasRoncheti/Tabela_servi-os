@@ -4,23 +4,23 @@ let data_list=[
     cliente:"Analia modas",
     serviço:"Fachada acm  ",
     data_entrega:"30/11/22",
-    desc:"fachada em acm preto com sanca espots de led por baixo  ",
+    desc:"fachada em acm preto com sanca spots de led por baixo  ",
     img01:"./images/analia.png",
    
     
 
     },
 
-    // {
-    // id:"02",
-    // cliente:"Marreco Motos",
-    // serviço:"Placa em acm  ",
-    // data_entrega:"30/12/22",
-    // desc:"Placa em acm azul com letreiro em pvc 10mm branco ",
-    // img01:"./images/marreco.png"
+     {
+     id:"02",
+     cliente:"Padaria Leve pão",
+     serviço:"Placa em acm marron   ",
+     data_entrega:"10/12/22",
+     desc:"Placa em ACM MARRON com letreiro em ADESIVO BRANCO branco <br> 290Largura x 80 altura ",
+     img01:"./images/padaria leve pão .jpeg"
     
 
-    // },
+     },
 
     {
     id:"03",
