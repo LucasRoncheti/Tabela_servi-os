@@ -11,16 +11,16 @@ let data_list=[
 
     },
 
-    {
-    id:"02",
-    cliente:"Marreco Motos",
-    serviço:"Placa em acm  ",
-    data_entrega:"30/12/22",
-    desc:"Placa em acm azul com letreiro em pvc 10mm branco ",
-    img01:"./images/marreco.png"
+    // {
+    // id:"02",
+    // cliente:"Marreco Motos",
+    // serviço:"Placa em acm  ",
+    // data_entrega:"30/12/22",
+    // desc:"Placa em acm azul com letreiro em pvc 10mm branco ",
+    // img01:"./images/marreco.png"
     
 
-    },
+    // },
 
     {
     id:"03",
@@ -58,18 +58,18 @@ let data_list=[
     cliente:"Jennifer Arsi",
     serviço:"Placa em acm  ",
     data_entrega:"25/02/22",
-    desc:"Placa em acm preto com letreiro em pvc 10mm ",
+    desc:"Placa 100x100 em acm preto com letreiro em pvc 10mm ",
     img01:"./images/jennifer arsi.png"
 
     },
 
-    {
-    id:"07",
-    cliente:"Cliente 03",
-    serviço:"fachada loja ",
-    data_entrega:"25/02/22",
-    desc:"faxada de loja em acm cor preto ",
-    img01:""
+    // {
+    // id:"07",
+    // cliente:"Cliente 03",
+    // serviço:"fachada loja ",
+    // data_entrega:"25/02/22",
+    // desc:"faxada de loja em acm cor preto ",
+    // img01:""
 
-    },
+    // },
 ]
