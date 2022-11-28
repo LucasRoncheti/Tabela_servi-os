@@ -17,7 +17,8 @@ let data_list=[
      serviço:"Placa em acm marron   ",
      data_entrega:"10/12/22",
      desc:"Placa em ACM MARRON com letreiro em ADESIVO BRANCO branco <br> 290Largura x 80 altura ",
-     img01:"./images/padaria leve pão .jpeg"
+     img01:"./images/padaria leve pão .jpeg",
+     img02:"./images/padaria leve pão 1.png"
     
 
      },
