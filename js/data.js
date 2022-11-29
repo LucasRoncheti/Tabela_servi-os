@@ -49,8 +49,9 @@ let data_list=[
     serviço:"Placa em acm  ",
     data_entrega:"10/12/22",
     desc:"placa em acm medindo 300x65 cm acm branco com letras em pvc 10mm pintado de rosa  ",
-    img01:"./images/RaniBicker.jpeg",
-    img02:"./images/mediasRani.jpeg"
+    img01:"./images/layoutRani.png",
+    img02:"./images/mediasRani.jpeg",
+    img03:"./images/RaniBicker.jpeg"
 
     },
 
