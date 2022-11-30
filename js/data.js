@@ -16,9 +16,9 @@ let data_list=[
      cliente:"Padaria Leve pão",
      serviço:"Placa em acm marron   ",
      data_entrega:"10/12/22",
-     desc:"Placa em ACM MARRON com letreiro em ADESIVO BRANCO branco <br> 290Largura x 80 altura ",
+     desc:"Placa em ACM MARRON com letreiro em ADESIVO BRANCO branco <br> 360Largura x 80 altura <br> placa em acm dupla face com adesivo ",
      img01:"./images/padaria leve pão .jpeg",
-     img02:"./images/padaria leve pão 1.png"
+    //  img02:"./images/padaria leve pão 1.png"
     
 
      },
@@ -33,15 +33,15 @@ let data_list=[
 
     },
 
-    {
-    id:"04",
-    cliente:"Luciana todos os santos ",
-    serviço:"toldo lona e estrutura  ",
-    data_entrega:"02/12/22",
-    desc:"Toldo em lona bege com estrutura em metalon galvanizado ",
-    img01:"./images/toldo luciana.jpeg"
+    // {
+    // id:"04",
+    // cliente:"Luciana todos os santos ",
+    // serviço:"toldo lona e estrutura  ",
+    // data_entrega:"02/12/22",
+    // desc:"Toldo em lona bege com estrutura em metalon galvanizado ",
+    // img01:"./images/toldo luciana.jpeg"
 
-    },
+    // },
 
     {
     id:"05",
