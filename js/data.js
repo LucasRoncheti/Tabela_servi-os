@@ -55,15 +55,15 @@ let data_list=[
 
     },
 
-    {
-    id:"06",
-    cliente:"Jennifer Arsi",
-    serviço:"Placa em acm  ",
-    data_entrega:"25/02/22",
-    desc:"Placa 100x100 em acm preto com letreiro em pvc 10mm ",
-    img01:"./images/jennifer arsi.png"
+    // {
+    // id:"06",
+    // cliente:"Jennifer Arsi",
+    // serviço:"Placa em acm  ",
+    // data_entrega:"25/02/22",
+    // desc:"Placa 100x100 em acm preto com letreiro em pvc 10mm ",
+    // img01:"./images/jennifer arsi.png"
 
-    },
+    // },
 
     // {
     // id:"07",
