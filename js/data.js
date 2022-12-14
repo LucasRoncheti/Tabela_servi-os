@@ -13,25 +13,25 @@ let data_list=[
 
      {
      id:"02",
-     cliente:"Padaria Leve pão",
-     serviço:"Placa em acm marron   ",
-     data_entrega:"10/12/22",
-     desc:"Placa em ACM MARRON com letreiro em ADESIVO BRANCO branco <br> 360Largura x 80 altura <br> placa em acm dupla face com adesivo ",
-     img01:"./images/padaria leve pão .jpeg",
-    //  img02:"./images/padaria leve pão 1.png"
+     cliente:"Ricardo Paiva ",
+     serviço:"Toldos fixo Lona Azul   ",
+     data_entrega:"20/12/22",
+     desc:"Toldo fixo com curvatura na frente reveestido em lona azul <br> colocar chapinha para prender a lona na ferragem<br> Toldo 190 largura x110<br> toldo 220largura x 110  ",
+     img01:"./images/toldo ricardo 01.png",
+     img02:"./images/toldo ricardo 02.png"
     
 
      },
 
-    {
-    id:"03",
-    cliente:"Lider padaria / Fábio ",
-    serviço:"fachada em acm logo pvc 10mm ",
-    data_entrega:"10/12/22",
-    desc:"fachada em acm bordo e letreiro em pvc 10mm com detalhes pretos ",
-    img01:"./images/lider .jpeg"
+    // {
+    // id:"03",
+    // cliente:"Lider padaria / Fábio ",
+    // serviço:"fachada em acm logo pvc 10mm ",
+    // data_entrega:"10/12/22",
+    // desc:"fachada em acm bordo e letreiro em pvc 10mm com detalhes pretos ",
+    // img01:"./images/lider .jpeg"
 
-    },
+    // },
 
     // {
     // id:"04",
@@ -43,17 +43,17 @@ let data_list=[
 
     // },
 
-    {
-    id:"05",
-    cliente:"Rani Bicker",
-    serviço:"Placa em acm  ",
-    data_entrega:"10/12/22",
-    desc:"placa em acm medindo 300x65 cm acm branco com letras em pvc 10mm pintado de rosa  ",
-    img01:"./images/layoutRani.png",
-    img02:"./images/mediasRani.jpeg",
-    img03:"./images/RaniBicker.jpeg"
+    // {
+    // id:"05",
+    // cliente:"Rani Bicker",
+    // serviço:"Placa em acm  ",
+    // data_entrega:"10/12/22",
+    // desc:"placa em acm medindo 300x65 cm acm branco com letras em pvc 10mm pintado de rosa  ",
+    // img01:"./images/layoutRani.png",
+    // img02:"./images/mediasRani.jpeg",
+    // img03:"./images/RaniBicker.jpeg"
 
-    },
+    // },
 
     // {
     // id:"06",
